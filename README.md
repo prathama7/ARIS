@@ -39,11 +39,11 @@ g++ -std=c++17 main.cpp FileManager.cpp -o main.exe
 3. Enter file name to search (partial matches from the start of filename)
 4. View results with full file details
 5. Once file is found, perform file operations:
-a. Open the selected file  
-b. Insert text into text documents only  
-c. Move file into different folders  
-d. Delete file permanently  
-e. Search again
+   - Open the selected file
+   - Insert text into text documents only
+   - Move file into different folders
+   - Delete file permanently
+   - Search again
 6. Repeat operations until user types 'y' or "Y"
 7. Type 'quit' to exit
 
